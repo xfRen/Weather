@@ -19,6 +19,6 @@
     <td><a href="http://expressjs.com/" target="_blank"><img src="logo/expressjs-logo.png" height="60px" /></a></td>
     <td><a href="https://webpack.github.io/" target="_blank"><img src="logo/webpack-logo.png" height="60px" /></a></td>
     <td><a href="https://git-scm.com/" target="_blank"><img src="logo/git-logo.png" height="60px" /></a></td>
-    <td><a href="http://tranquil-mesa-69416.herokuapp.com/" target="_blank"><img src="logo/heroku-logo.png" height="60px" /></a></td>
+    <td><a href="http://cryptic-lowlands-11860.herokuapp.com/" target="_blank"><img src="logo/heroku-logo.png" height="60px" /></a></td>
   </tr>
 </table>
